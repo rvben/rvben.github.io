@@ -11,8 +11,8 @@ categories: selenium automated testing junit
 
 To get started clone the repository.
 ```
-git clone https://github.com/RJongejan/selenium-getting-started
-``` 
+git clone https://github.com/rjongejan/selenium-getting-started
+```
 When you open the fresh local repository, you'll see the following structure of files and folders:
 
 Regular code:  
@@ -52,12 +52,12 @@ By finder = By.name("q");
 //This line retrieves the WebElement from the page.
 WebElement searchField = driver.findElement(finder);
 
-//The 'sendKeys' method of the WebElement is used 
-//to type the query in the search-field. 
+//The 'sendKeys' method of the WebElement is used
+//to type the query in the search-field.
 //We'll add \n to press Enter as well.
 searchField.sendKeys("First test.\n");
 
-//Now it's time for an assertion. 
+//Now it's time for an assertion.
 //This will assert if the title is what we expect it to be.
 assertThat(driver.getTitle(), containsString("First test. - Google"));
 ```
