@@ -5,7 +5,7 @@ permalink: /about/
 ---
 You can contact me through:  
 
-Github: {% include icon-github.html username="rjongejan" %}
+Github: {% include icon-github.html username="rvben" %}
 
 [ruben.jongejan@gmail.com](mailto:ruben.jongejan@gmail.com)
 

@@ -11,7 +11,7 @@ categories: selenium automated testing junit
 
 To get started clone the repository.
 ```
-git clone https://github.com/rjongejan/selenium-getting-started
+git clone https://github.com/rvben/selenium-getting-started
 ```
 When you open the fresh local repository, you'll see the following structure of files and folders:
 
