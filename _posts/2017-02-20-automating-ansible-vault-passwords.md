@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Automating Ansible Vault Passwords"
+title:  "Automation with Ansible Vault"
 date:   2017-02-20 19:00:00 +0200
-categories: ssh jenkins ci expect
 ---
 # Using Expect to Automate Ansible Vault Passwords
 

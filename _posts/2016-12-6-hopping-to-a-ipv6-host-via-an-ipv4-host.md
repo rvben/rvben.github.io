@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Hopping to a ipv6 host, via an ipv4 host"
+title:  "Hopping from ipv4 to ipv6"
 date:   2016-10-06 20:00:00 +0200
-categories: vps ssh
 ---
 # SSH Configuration for Ipv6 Hop
 

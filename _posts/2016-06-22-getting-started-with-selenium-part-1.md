@@ -2,7 +2,6 @@
 layout: post
 title:  "Getting Started with Selenium"
 date:   2016-06-22 20:00:00 +0200
-categories: selenium automated testing junit
 ---
 ### Requirements ###
 - [Maven](https://maven.apache.org/download.cgi)

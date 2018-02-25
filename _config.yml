@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 author: Ruben J. Jongejan
 email: ruben.jongejan@gmail.com
 avatar: assets/images/avatar48x48.jpg
-url: "http://www.rvben.nl" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://rvben.nl" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jongejanruben
 # github_username:  rvben
 
