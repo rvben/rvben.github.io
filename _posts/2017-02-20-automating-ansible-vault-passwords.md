@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Automating Ansible Vault Passwords"
 date:   2017-02-20 19:00:00 +0200
 categories: ssh jenkins ci expect

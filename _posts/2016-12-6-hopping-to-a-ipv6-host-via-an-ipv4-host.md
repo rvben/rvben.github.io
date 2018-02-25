@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Hopping to a ipv6 host, via an ipv4 host"
 date:   2016-10-06 20:00:00 +0200
 categories: vps ssh

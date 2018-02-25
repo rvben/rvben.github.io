@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "Using Expect to Automate SSH Passphrase Input"
 date:   2017-01-02 20:00:00 +0200
 categories: ssh jenkins ci
