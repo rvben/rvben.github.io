@@ -2,6 +2,7 @@
 layout: post
 title:  "Hopping from ipv4 to ipv6"
 date:   2016-10-06 20:00:00 +0200
+categories: vps ssh ipv4 ipv6
 ---
 # SSH Configuration for Ipv6 Hop
 
